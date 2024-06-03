@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Hp\\Downloads\\jcommander-1.27.jar",
+        "c:\\Users\\Hp\\Downloads\\testng-7.4.0.jar"
+    ],
+    "java.compile.nullAnalysis.mode": "automatic"
+}
